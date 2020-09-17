@@ -1,0 +1,5 @@
+{
+	"bot_token": "DISCORD BOT TOKEN HERE",
+	"hibp_key": "HaveIBeenPwned API KEY HERE",
+	"ipstack_key": "IPstack.com API KEY HERE"
+}
